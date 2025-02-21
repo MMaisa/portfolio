@@ -1,4 +1,6 @@
-
+-- Data reference
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset/data
+  
 -- Creating the database
 sqlite3 maisa_pf.db
 SQLite version 3.37.0 2021-12-09 01:34:53
