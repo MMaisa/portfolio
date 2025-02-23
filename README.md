@@ -1,6 +1,6 @@
 OVERVIEW
 
-This project analyzes bank customer churn using SQL queries on an SQLite database. The data set included customer information like age, gender, account details, country, income details and churn rate. The goal is to analyze the churn rate by different factors and offer recommendations according to the insights. 
+I have analyzed bank customer churn using SQL queries on an SQLite database. The data set included customer information like age, gender, account details, country, income details and churn rate. The goal is to analyze the churn rate by different factors and offer recommendations according to the insights. 
 
 KEY INSIGHTS
 - Churn rate overall: 20,37%.
@@ -20,7 +20,8 @@ RECOMMENDATIONS
 - Improving sales strategies and changing or creating incentives for staff to focus on quality over quantity. 
 - Offering rewards or discounts for active members to increase engagement. 
 
-
 DATA SET REFERENCE
 
 https://www.kaggle.com/datasets/arnavsmayan/online-retail-sales-dataset/data
+
+
