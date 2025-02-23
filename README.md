@@ -1,6 +1,6 @@
 OVERVIEW
 
-I have analyzed bank customer churn using SQL queries on an SQLite database. The data set included customer information like age, gender, account details, country, income details and churn rate. The goal is to analyze the churn rate by different factors and offer recommendations according to the insights. 
+I have analyzed bank customer churn using SQL queries seen in bank_churn.sql on an SQLite database. The data set included customer information like age, gender, account details, country, income details and churn rate. The goal is to analyze the churn rate by different factors and offer recommendations according to the insights. 
 
 KEY INSIGHTS
 - Churn rate overall: 20,37%.
